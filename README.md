@@ -1,18 +1,18 @@
 # Community-Contributers
 
-> A curated list of various bug bounty tools
+> A list of all the amazing creators around the world 🌎 
 
 ## Contents
 
 -[ Youtube Channels ] :
      
-     1. Nahamsec = https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/videos
-     2. Ebrahim Hegazy =
-https://www.youtube.com/user/Zigoo0/playlists
-     3. Ben Grewell =
-https://www.youtube.com/channel/UC2Xz7OF80Ae3SU6uk4ERjZQ/playlists
-     4. Bugcrowd =
-https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww/playlists
+-1. Nahamsec (#https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/videos )
+-2. Ebrahim Hegazy 
+(#https://www.youtube.com/user/Zigoo0/playlists )
+-3. Ben Grewell =
+(#https://www.youtube.com/channel/UC2Xz7OF80Ae3SU6uk4ERjZQ/playlists )
+-4. Bugcrowd =
+(#https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww/playlists )
      5. HackerOne = https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
      6. GynvaelEN =
 https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
@@ -48,16 +48,3 @@ https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
      24. Motasem Hamdan = https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/playlists
      25. John Haddix =  https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA/videos
 
-- [ Reconnaissance ] :
-     1. How To Do Your Reconnaissance = https://medium.com/bugbountywriteup/guide-to-basic-recon-bug-bounties-recon-   728c5242a115
-     2. My Guide to Basic Recon = https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/
-     3. Shankar Bug Hunting Methodology (part 1) =
-https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066
-     4. Shankar Bug Hunting Methodology (part 2) =
-https://blog.usejournal.com/bug-hunting-methodology-part-2-5579dac06150
-     5. Recon — my way = https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21
-     6. Holdswarth Penetration Testing Methodology (part 1) =
-https://medium.com/dvlpr/penetration-testing-methodology-part-1-6-recon-9296c4d07c8a
-     7. Holdswarth Penetration Testing Methodology (part 2) =
-
-     8. Wired = https://www.wired.com/catego
