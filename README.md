@@ -4,10 +4,10 @@
 
 Index | Youtuber
 --- | ---
-**1** | [Nahamsec](#https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/videos)
-**2** | [Ebrahim](#https://www.youtube.com/user/Zigoo0/playlists) 
-**3** | [Ben Grewell](#https://www.youtube.com/channel/UC2Xz7OF80Ae3SU6uk4ERjZQ/playlists) 
-**4** | [Bugcrowd](#https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww/playlists) 
+**1** | [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/videos)
+**2** | [Ebrahim](https://www.youtube.com/user/Zigoo0/playlists) 
+**3** | [Ben Grewell](https://www.youtube.com/channel/UC2Xz7OF80Ae3SU6uk4ERjZQ/playlists) 
+**4** | [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww/playlists) 
 **5** | [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
 **6** | [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) 
 **7** | [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) 
