@@ -4,7 +4,7 @@
 
 Index | Platforms 
 --- | ---
-**1** | [Youtube]()
+**1** | [Youtube](YouTube/Readme.md)
 **2** | [Twitter]() 
 **3** | [Twitch]()
 **4** | [Guthub]() 
