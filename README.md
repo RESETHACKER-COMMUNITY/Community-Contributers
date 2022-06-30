@@ -4,7 +4,6 @@
 
 Index | Platforms 
 --- | ---
-
 **1** | [Track & stay Up to date](StayUptoDate.md)
 **2** | [News](news.md)
 **3** | [Podcasts](podcasts.md)
