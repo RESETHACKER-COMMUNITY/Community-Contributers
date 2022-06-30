@@ -31,7 +31,7 @@ Index | Youtuber
 **24** | [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/playlists) 
 **25** | [John Haddix - VODs of his Stream](https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA/videos)
 **26** | [TomNomNom - Writing your own Tools, Educational Videos about Hacking, Scripting, Bug Bounty .](https://www.youtube.com/user/TomNomNomDotCom)
-**27** | [The Cyber Mentor - An excellent Introduction series for beginners to help them find their first bug.](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Educational Videos about InfoSec, Penetration Testing, Web Security, Scripting, etc.
+**27** | [The Cyber Mentor - An excellent Introduction series for beginners to help them find their first bug.](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) 
 **28** | [InsiderPhD - An excellent Introduction series for beginners to help them find their first bug.](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A) 
 **29** | [rwxrob - Linux God](https://www.twitch.tv/rwxrob)
 **30** | [bug Bounty Reports Explained](https://www.youtube.com/c/bugbountyreportsexplained/)
