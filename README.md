@@ -4,14 +4,16 @@
 
 Index | Platforms 
 --- | ---
-**** | [News](news.md)
-**** | [Track & stay Up to date](StayUptoDate.md)
-**0** | [Podcasts](podcasts.md)
-**1** | [Youtube](YouTube/Readme.md)
-**2** | [Twitter](twitter.md) 
-**3** | [Twitch](twitch.md)
-**4** | [Discord](discord.md)
-**5** | [LinkedIn- Updating Soon](linkedin.md) 
-**6** | [slack- Updating Soon](slack,md)
-**7** | [Guthub- Updating Soon](github.md) 
-**8** | [Telegram - Updating Soon](telegram.md)
+
+**1** | [Track & stay Up to date](StayUptoDate.md)
+**2** | [News](news.md)
+**3** | [Podcasts](podcasts.md)
+**4** | [Youtube](YouTube/Readme.md)
+**5** | [Twitter](twitter.md) 
+**6** | [Twitch](twitch.md)
+**7** | [Discord](discord.md)
+**8** | [LinkedIn- Updating Soon](linkedin.md) 
+**9** | [slack- Updating Soon](slack,md)
+**10** | [Guthub- Updating Soon](github.md) 
+**11** | [Telegram - Updating Soon](telegram.md)
+**12** | [Matrix- updating Soon](matrix.md)
