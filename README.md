@@ -4,6 +4,8 @@
 
 Index | Platforms 
 --- | ---
+**** | [News](news.md)
+**** | [Track & stay Up to date](StayUptoDate.md)
 **0** | [Podcasts](podcasts.md)
 **1** | [Youtube](YouTube/Readme.md)
 **2** | [Twitter](twitter.md) 
