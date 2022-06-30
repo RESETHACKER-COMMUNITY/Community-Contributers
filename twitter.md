@@ -1,3 +1,8 @@
+## Twitter
+Index | Daily CheckOut
+-- | ---  
+**1.** | [Twitter Members and # Tag's you should Follow #bugbounty  #bugbountytip #bugbountytips #infosec #togetherwehitharder]
+
 NAHAMSEC Github | [This Section Has been Copied from Media Resources & Communities Nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/edit/master/assets/media.md))
 Curated Bug-Bounty List on Twitter by [@securibee](https://twitter.com/securibee): [Link](https://twitter.com/i/lists/1253517962272743424)<br>
 
