@@ -11,3 +11,4 @@ Index | Podcasts
 **7** |  [CCC Luxembourg Podcast](http://wiki.c3l.lu/doku.php?id=projects:entr0py_encore) Luxembourgish Podcast from CCC Lux.
 **8** | [🔖Hacked Story](https://open.spotify.com/show/21zZfOy7VCSIIWlJ64DElv?si=uQePe37MQA-piWO14fhwFg)
 **9** | [🔖Bug-bounties-and-cve](https://soundcloud.com/ic0de/bug-bounties-and-cve) by ic0de
+**10** | [Appsec Podcast](https://toppodcast.com/podcast_feeds/absolute-appsec/)
