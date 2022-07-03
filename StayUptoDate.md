@@ -13,3 +13,5 @@ Index | StayUptoDate
 **10** | [Hacker1 Hacktivity - All popular disclosed reports but you can sort by age to see the latest reports first.](https://hackerone.com/hacktivity)
 **11** | [Unofficial Hackerone POC timeline](http://h1.nobbd.de/)
 **12** | [Hackeone Top reportd by bug type](https://github.com/reddelexc/hackerone-reports)
+**13** | [BugReader](https://bugreader.com/)
+
