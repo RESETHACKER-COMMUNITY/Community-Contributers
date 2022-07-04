@@ -36,3 +36,4 @@ Index | Youtuber
 **29** | [rwxrob - Linux God](https://www.twitch.tv/rwxrob)
 **30** | [bug Bounty Reports Explained](https://www.youtube.com/c/bugbountyreportsexplained/)
 **31** | [Reconless - Password Hacking, bugbounty tips, writeups and Hacking educational videos](https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ/featured)
+**32** | [RED SIEGE - Pentesting](https://youtu.be/23F8QKTu86U)
