@@ -15,3 +15,31 @@ Index | StayUptoDate
 **12** | [Hackeone Top reportd by bug type](https://github.com/reddelexc/hackerone-reports)
 **13** | [BugReader](https://bugreader.com/)
 
+
+# For staying updated you can subscribe to several RSS feeds.
+
+Hackerone Hacktivity
+http://rss.ricterz.me/hacktivity 
+
+Hackerone Blog
+https://medium.com/feed/tag/hackerone
+
+NIST CVE ALL
+https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
+
+NIST CVE Analyzed
+https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rssanalyzed.xml
+
+Bug Bounty Writeups
+https://medium.com/feed/bugbountywriteup
+ 
+PortSwigger
+http://blog.portswigger.net/feeds/posts/default
+
+
+Reddit Netsec
+http://www.reddit.com/r/netsec/.rss
+
+Threat Post 
+http://threatpost.com/feed/
+
