@@ -15,6 +15,12 @@ Index | StayUptoDate
 **12** | [Hackeone Top reportd by bug type](https://github.com/reddelexc/hackerone-reports)
 **13** | [BugReader](https://bugreader.com/)
 **14** | [CVE poc Lists](https://github.com/nomi-sec/PoC-in-GitHub)
+**15** | [News](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/news.md)
+**16** | [Podcasts](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/podcasts.md)
+**17** | [Youtube](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/tree/main/YouTube)
+**18** | [Twitter](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/twitter.md)
+**19** | [Twitch](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/twitch.md)
+**20** | [Discord](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/discord.md)
 
 
 # For staying updated you can subscribe to several RSS feeds.
