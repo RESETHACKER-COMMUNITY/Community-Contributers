@@ -13,6 +13,7 @@ Index | StayUptoDate
 **10** | [Hacker1 Hacktivity - All popular disclosed reports but you can sort by age to see the latest reports first.](https://hackerone.com/hacktivity)
 **11** | [Unofficial Hackerone POC timeline](http://h1.nobbd.de/)
 **12** | [Hackeone Top reportd by bug type](https://github.com/reddelexc/hackerone-reports)
+**13** | [hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports](https://github.com/arkadiyt/bounty-targets-data)
 **13** | [BugReader](https://bugreader.com/)
 **14** | [CVE poc Lists](https://github.com/nomi-sec/PoC-in-GitHub)
 **15** | [News](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/news.md)
