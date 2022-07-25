@@ -2,7 +2,7 @@
 Index | StayUptoDate
 --- | ---
 **1** | [Intigriti Bug Bytes #175 (END)](https://blog.intigriti.com/2022/)
-**2** | [AppSec Ezine - 436 Release Date: 24/06/2022](https://github.com/Simpsonpt/AppSecEzine/blob/master/Ezines/436%20-%20AppSec%20Ezine)
+**2** | [AppSec Ezine - 436 Release Date: 24/06/2022*](https://github.com/Simpsonpt/AppSecEzine/blob/master/Ezines/436%20-%20AppSec%20Ezine)
 **3** | [Bug-References](https://github.com/ngalongc/bug-bounty-reference)
 **4** | [BugBountyNotes](https://www.bugbountynotes.com/writeups)
 **5** | [Pentesterland Write-ups List](https://pentester.land/list-of-bug-bounty-writeups.html)
@@ -15,6 +15,7 @@ Index | StayUptoDate
 **12** | [Hackeone Top reportd by bug type](https://github.com/reddelexc/hackerone-reports)
 **13** | [hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports](https://github.com/arkadiyt/bounty-targets-data)
 **13** | [BugReader](https://bugreader.com/)
+**14** | [CISA Weekly summary of new vulnerabilities recored on NIST & NVD*](https://www.cisa.gov/uscert/ncas/bulletins)
 **14** | [CVE poc Lists](https://github.com/nomi-sec/PoC-in-GitHub)
 **15** | [News](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/news.md)
 **16** | [Podcasts](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/podcasts.md)
