@@ -8,3 +8,4 @@ Index |  Cybersecutiy News Sites
 **5.** | [CSO](https://www.csoonline.com)
 **6.** | [Threat Post](https://threatpost.com)
 **7.** | [Dark Reading](https://www.darkreading.com)
+**8.** | [Security Boulevard - LogicHub Security Roundup: April 2022](https://securityboulevard.com/2022/04/logichub-security-roundup-april-2022/)
