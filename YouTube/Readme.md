@@ -92,6 +92,12 @@ Index | Youtuber/Community/Company
 **83** | [Cyber Insecurity - How to hack, how to conduct penetration testing & red team concepts, and how to be an expert pentester / hacker in the modern cybersecurity landscape.](https://www.youtube.com/c/CyberInsecurity)
 **84** | [**Tech69 - Intermidiate Cybersecurity, programming and bug bounty ](https://www.youtube.com/c/Tech69YT)
 **85** | [Cloud Security Podcast - each week we interview CyberSecurity Leaders and Cloud Security Practitioners from around the world to help you learn How to and What's HOT in Cloud Security.](https://www.youtube.com/c/CloudSecurityPodcast)
+**86** | [DayCyberwox - Cloud, security, certification and Life](https://www.youtube.com/c/DayCyberwox)
+**87** | [Jeff Geerling - K8s, Ansible, Raspberry Pi, photography, tech, DIY, tools, etc.](https://www.youtube.com/c/JeffGeerling/videos)
+**88** | 
+**89** | 
+**90** | 
+
 
 ## Cybersecurity/VA/pentesting/Soc etc in HINDI
 
