@@ -78,8 +78,7 @@ Index | Youtuber/Community/Company
 **70** | [SecurityFWD - shows the latest security tools, amazing projects, and keeps you on the edge of what's possible in security today with live Q/A](https://www.youtube.com/c/SecurityFWD)
 **71** | [Computerphile - all about computers and computer stuff. ](https://www.youtube.com/user/Computerphile)
 **72** | [FindingUrPasswd - Learning Security Together](https://www.youtube.com/c/FindingUrPasswd)
-**73** | [Busra Demir - Reverse Engineering, Binary Exploitation, OSCP, OSCE, SLAE64, OSWP, CLF01. OSEE loading…
-Senior Vulnerable Machine Engineer at Offsec](https://www.youtube.com/channel/UCksdNO8hAiOQoWZhEXhyyZA)
+**73** | [Busra Demir - Reverse Engineering, Binary Exploitation, OSCP, OSCE, SLAE64, OSWP, CLF01. OSEE loading…Senior Vulnerable Machine Engineer at Offsec](https://www.youtube.com/channel/UCksdNO8hAiOQoWZhEXhyyZA)
 **74** | [Cyberspatial - cyber security education and training from the brightest minds in the field.](https://www.youtube.com/c/Cyberspatial)
 **75** | [MrTurvey - Testing web application and infrastructure testing,](https://www.youtube.com/c/MrTurvey)
 **76** | [Derek Rook - HTB, exoloit, Infosec](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)
@@ -96,6 +95,8 @@ Senior Vulnerable Machine Engineer at Offsec](https://www.youtube.com/channel/UC
 
 ## Cybersecurity/VA/pentesting/Soc etc in HINDI
 
+Index | Youtuber/Community/Company
+--- | ---
 **0** | [ResetHacker Community - Conference, CTF Events, Interview, tutorials etc ](https://www.youtube.com/c/RESETHACKER)
 **1** | [Spin the hack](https://www.youtube.com/c/SpinTheHack)
 **2** | [Forensic Tech](https://www.youtube.com/c/ForensicTech)
