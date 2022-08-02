@@ -1,6 +1,6 @@
 RESETyoutube by [ResetHacker community](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/blob/main/README.md)
 
-This contains the Link of all the IT sectors amazing Creators on Youtube.
+This repo contains the 100+ cybersecurity Youtube channel.
 
 
 Index | Youtuber/Community/Company
@@ -106,7 +106,7 @@ Index | Youtuber/Community/Company
 **6** | [CryptoKnight](https://www.youtube.com/c/TheHeraneVlogs5)
 **7** | [Pratik Dabhi](https://www.youtube.com/c/impratikdabhi)
 **8** | [Tech69](https://www.youtube.com/c/Tech69YT)
-**9** | 
+**9** | [Info CK - cybersecurity, bug bounty basic](https://www.youtube.com/c/InfoCk)
 **10** | [CYBER EVOLUTION](https://www.youtube.com/c/indianblackhats)
 **11** | [The cyber expert - Cyber Security And Ethical Hacking Related Videos](https://www.youtube.com/results?search_query=The+cyber+expert)
 **12** | [CryptoKnight](https://www.youtube.com/c/TheHeraneVlogs5)
@@ -115,4 +115,3 @@ Index | Youtuber/Community/Company
 **15** | [Ethical Hacking School - Discuss Latest Cyber Security News, Ethical Hacking Concept, Network Security, Computer Security, Mobile Security,](https://www.youtube.com/c/SheshTheCyberSecurity)
 **16** | [The Hackers World - beginner friendly network hacking and kali.](https://www.youtube.com/c/TheHackersWorld)
 **17** | [Masters in I.T - Discuss Latest Cyber Security News, Ethical Hacking Concept, Network Security, Computer Security,](https://www.youtube.com/c/MastersinIT)
-**18** | [Info CK - cybersecurity, bug bounty basic](https://www.youtube.com/c/InfoCk)
