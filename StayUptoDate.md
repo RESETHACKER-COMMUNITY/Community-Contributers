@@ -23,6 +23,11 @@ Index | StayUptoDate
 **18** | [Twitter](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/twitter.md)
 **19** | [Twitch](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/twitch.md)
 **20** | [Discord](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/discord.md)
+**21** | [CISA : Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+**22** | [SOC: Weekend Wrap-Up](https://opalsec.substack.com/p/soc-goulash-weekend-wrap-up)
+**23** |  [This is collections of APT and cybercriminals campaign.-Updated on regular basis](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+**24** |  [AppSec Ezine - 443nd Edition*](https://pathonproject.com/zb/?28f0f8e9764d4f97#LfnVynuy4pSdM73hmhWVfXnU1Sb9rAMpPn+vFyQ=)
+
 
 
 # For staying updated you can subscribe to several RSS feeds.
