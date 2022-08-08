@@ -227,3 +227,26 @@ The following list does not exclusively contains Bug Bounty themed Accounts but 
 |[@yip404](https://twitter.com/yip404) | Mohamed Ebrahem |
 |[@zeroxyele](https://twitter.com/zeroxyele) | xyele | ðŸ‡¹ðŸ‡·https://t.co/PEtNHYrIVKhttps://t.co/p67rsc3GE9
 |[@zseano](https://twitter.com/zseano) | @zseano | webapp hacker and also that annoying lucio ðŸ¸ Recognised by @Amazon in 2018 for my security research work. ~busy working on @bugbountynotes v2!~
+   
+# Top 20 by sentinalone   
+    1. @Fox0x01 Azeria |  Maria Markstedter
+    2. @Runasand | Runa Sand
+    3. @RobertMLee | Robert M. Lee
+    4. @JHaddix | Jason Haddix
+    5. @campuscodi | Catalin Cimpanu
+    6. @natashenka | Natalie Silvanovich
+    7. @zackwhittaker | Zack Whittaker
+    8. @laparisa | Parisa Tabriz
+    9. @BillDemirkapi | Bill Demirkapi
+    10. @Carlos_Perez | Darkoperator
+    11. @patrickwardle | Patrick Wardle
+    12. @binitamshah | Binni Shah
+    13. @gcluley | Graham Cluley
+    14. @ryanaraine | Ryan Naraine
+    15. @JohnLaTwc | John Lambert
+    16. @RGB_Lights | Rob Joyce
+    17. @evacide | Eva Galperin
+    18. @marcusjcarey | Marcus J Carey
+    19. @taviso | Tavis Ormandy
+    20. @adversariel | Ariel Herbert-Voss
+    21. @craiu | Costin Raiu
