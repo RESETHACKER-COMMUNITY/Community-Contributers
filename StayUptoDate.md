@@ -27,6 +27,8 @@ Index | StayUptoDate
 **22** | [SOC: Weekend Wrap-Up](https://opalsec.substack.com/p/soc-goulash-weekend-wrap-up)
 **23** |  [This is collections of APT and cybercriminals campaign.-Updated on regular basis](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 **24** |  [AppSec Ezine - 443nd Edition*](https://pathonproject.com/zb/?28f0f8e9764d4f97#LfnVynuy4pSdM73hmhWVfXnU1Sb9rAMpPn+vFyQ=)
+**25** | [ExploitDD](https://www.exploit-db.com/)
+**26** | [0day.today](https://0day.today/)
 
 
 
