@@ -29,6 +29,8 @@ Index | StayUptoDate
 **24** | [Twitter](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/twitter.md)
 **25** | [Twitch](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/twitch.md)
 **26** | [Discord](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/discord.md)
+**27** | [Telegram- Updating Soon]()
+**28** | Matrix - Updating Soon]()
 
 
 
