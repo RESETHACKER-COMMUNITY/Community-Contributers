@@ -1,4 +1,7 @@
-## Trace latest reward, CVE, writeups, tools and on going trend in Community.
+I'm so grateful to all the [Source, Organization and researchers](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/StayUptoDate.md) without their Writeups, article, findings and whitepaper [Weekly infosec Update](https://github.com/RESETHACKER-COMMUNITY/Community-Contributers/blob/main/StayUptoDate.md) would not have been possible.
+
+- Trace latest reward, CVE, writeups, tools and on going trend in Community.
+
 Index | StayUptoDate
 --- | ---
 **1** | [Intigriti Bug Bytes #175 (END)](https://blog.intigriti.com/2022/)
